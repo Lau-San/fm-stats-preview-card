@@ -13,6 +13,7 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
     - [Built with](#built-with)
     - [Continued development](#continued-development)
   - [Author](#author)
+  - [Acknowledgements](#acknowledgements)
 
 ## Overview
 
@@ -44,3 +45,7 @@ go about it.
 ## Author
 
 - Frontend Mentor - [@Lau-San](https://www.frontendmentor.io/profile/Lau-San)
+
+## Acknowledgements
+
+- Thank so much to [@guilleoem](https://www.frontendmentor.io/profile/guilleoem) for helping me with colorizing the images!
